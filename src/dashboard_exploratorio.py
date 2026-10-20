@@ -189,7 +189,7 @@ def construir_dashboard(df: pd.DataFrame, ruta_salida_figura: str):
 
 
 if __name__ == '__main__':
-  archivo_datos = 'dataset_set_D_telecomunicaciones.xlsx'
+  archivo_datos = 'data/raw/dataset_set_D_telecomunicaciones.xlsx'
   df_telecom = cargar_datos(archivo_datos)
 
   # 1. Exportar reportes operativos

@@ -1,0 +1,201 @@
+fecha_registro;region;tipo_servicio;latencia_ms;tiempo_resolucion_hr;incidencias_reportadas;tickets_soporte;cumplimiento_sla
+2025-03-01;Centro;Empresas;21.3;22.4;0;27;No cumple
+2025-03-02;Norte;Internet Hogar;36.5;39.4;13;19;No cumple
+2025-03-03;Norte;Empresas;97.4;1.7;7;15;Cumple
+2025-03-04;Norte;Móvil;119.4;38.2;12;30;Cumple
+2025-03-05;Norte;Empresas;111.0;21.5;9;30;No cumple
+2025-03-06;Norte;Internet Hogar;19.7;31.2;16;22;No cumple
+2025-03-07;Norte;Móvil;82.8;26.2;13;44;Cumple
+2025-03-08;Sur;Internet Hogar;48.8;18.3;16;25;Cumple
+2025-03-09;Centro;Empresas;62.3;1.3;23;8;No cumple
+2025-03-10;Sur;Internet Hogar;64.2;31.4;21;35;Cumple
+2025-03-11;Norte;Móvil;52.1;44.3;3;52;No cumple
+2025-03-12;Sur;Internet Hogar;41.5;44.4;11;56;Cumple
+2025-03-13;Norte;Internet Hogar;79.5;22.7;9;19;Cumple
+2025-03-14;Centro;Empresas;49.9;35.3;10;25;No cumple
+2025-03-15;Centro;Empresas;46.8;31.9;18;33;No cumple
+2025-03-16;Centro;Móvil;32.4;25.1;17;19;No cumple
+2025-03-17;Centro;Móvil;115.9;4.3;0;34;No cumple
+2025-03-18;Sur;Internet Hogar;57.3;43.5;2;49;No cumple
+2025-03-19;Sur;Empresas;55.8;34.0;29;19;Cumple
+2025-03-20;Norte;Internet Hogar;57.7;37.2;6;30;Cumple
+2025-03-21;Sur;Empresas;78.3;8.6;15;35;Cumple
+2025-03-22;Norte;Empresas;28.9;12.8;22;28;No cumple
+2025-03-23;Sur;Móvil;20.7;17.2;17;52;No cumple
+2025-03-24;Norte;Internet Hogar;100.1;15.6;13;26;Cumple
+2025-03-25;Norte;Empresas;100.9;1.2;0;28;Cumple
+2025-03-26;Norte;Internet Hogar;30.6;29.2;0;41;Cumple
+2025-03-27;Norte;Internet Hogar;90.6;39.5;14;15;No cumple
+2025-03-28;Centro;Internet Hogar;37.8;5.4;5;48;Cumple
+2025-03-29;Centro;Empresas;48.7;45.9;6;42;No cumple
+2025-03-30;Sur;Móvil;117.1;19.6;22;12;Cumple
+2025-03-31;Centro;Empresas;91.3;27.8;7;15;No cumple
+2025-04-01;Sur;Móvil;109.7;28.5;9;19;Cumple
+2025-04-02;Sur;Internet Hogar;35.7;38.2;4;6;Cumple
+2025-04-03;Sur;Internet Hogar;68.0;42.7;29;38;No cumple
+2025-04-04;Norte;Internet Hogar;31.1;4.4;2;58;Cumple
+2025-04-05;Norte;Empresas;106.7;40.0;26;52;Cumple
+2025-04-06;Sur;Empresas;15.2;20.0;26;56;Cumple
+2025-04-07;Norte;Internet Hogar;101.9;46.2;20;56;Cumple
+2025-04-08;Centro;Empresas;88.9;20.4;18;33;Cumple
+2025-04-09;Centro;Internet Hogar;111.4;34.9;10;18;No cumple
+2025-04-10;Norte;Internet Hogar;100.2;10.9;29;8;No cumple
+2025-04-11;Sur;Móvil;29.4;21.8;29;28;Cumple
+2025-04-12;Norte;Internet Hogar;74.7;28.9;8;44;No cumple
+2025-04-13;Norte;Internet Hogar;92.0;11.1;17;25;Cumple
+2025-04-14;Centro;Internet Hogar;117.3;34.3;10;27;Cumple
+2025-04-15;Norte;Móvil;80.9;35.3;20;40;No cumple
+2025-04-16;Norte;Empresas;45.2;14.1;19;34;No cumple
+2025-04-17;Sur;Internet Hogar;96.9;35.2;24;33;No cumple
+2025-04-18;Sur;Empresas;11.9;27.1;15;45;No cumple
+2025-04-19;Norte;Internet Hogar;70.7;33.1;1;11;No cumple
+2025-04-20;Sur;Empresas;78.4;26.6;16;17;No cumple
+2025-04-21;Norte;Móvil;40.3;1.7;1;37;Cumple
+2025-04-22;Centro;Empresas;52.7;42.9;23;38;No cumple
+2025-04-23;Norte;Internet Hogar;106.4;40.3;14;56;No cumple
+2025-04-24;Centro;Empresas;118.5;13.2;12;11;Cumple
+2025-04-25;Norte;Empresas;25.3;11.3;18;32;No cumple
+2025-04-26;Centro;Internet Hogar;113.5;6.8;29;15;Cumple
+2025-04-27;Centro;Móvil;55.7;38.1;29;43;No cumple
+2025-04-28;Centro;Internet Hogar;64.5;41.2;21;54;No cumple
+2025-04-29;Sur;Empresas;89.4;40.3;10;14;Cumple
+2025-04-30;Norte;Empresas;72.2;29.7;2;19;No cumple
+2025-05-01;Norte;Empresas;75.1;18.2;14;14;Cumple
+2025-05-02;Sur;Móvil;64.2;47.1;15;5;Cumple
+2025-05-03;Sur;Empresas;40.6;32.9;5;36;No cumple
+2025-05-04;Norte;Internet Hogar;47.8;22.3;9;57;No cumple
+2025-05-05;Sur;Empresas;112.5;31.3;4;59;No cumple
+2025-05-06;Centro;Internet Hogar;78.6;39.9;2;56;Cumple
+2025-05-07;Norte;Internet Hogar;101.5;32.0;12;35;Cumple
+2025-05-08;Sur;Móvil;50.4;41.5;7;52;No cumple
+2025-05-09;Sur;Internet Hogar;113.0;7.6;29;52;Cumple
+2025-05-10;Sur;Empresas;70.8;12.2;9;28;Cumple
+2025-05-11;Norte;Internet Hogar;40.3;1.3;27;8;No cumple
+2025-05-12;Norte;Móvil;87.4;47.2;14;20;Cumple
+2025-05-13;Centro;Internet Hogar;37.7;29.0;28;5;No cumple
+2025-05-14;Centro;Móvil;71.5;13.1;15;21;Cumple
+2025-05-15;Sur;Empresas;65.6;7.9;2;39;Cumple
+2025-05-16;Sur;Móvil;15.9;39.0;19;55;No cumple
+2025-05-17;Centro;Móvil;96.9;28.0;12;24;Cumple
+2025-05-18;Centro;Móvil;33.5;1.2;1;12;Cumple
+2025-05-19;Norte;Internet Hogar;16.0;8.0;24;15;No cumple
+2025-05-20;Sur;Internet Hogar;41.2;41.9;2;12;Cumple
+2025-05-21;Sur;Móvil;70.5;27.7;14;21;No cumple
+2025-05-22;Sur;Móvil;68.2;19.4;28;16;No cumple
+2025-05-23;Norte;Empresas;78.4;46.7;2;47;Cumple
+2025-05-24;Centro;Móvil;25.7;34.2;16;12;Cumple
+2025-05-25;Sur;Internet Hogar;118.6;39.5;13;8;No cumple
+2025-05-26;Norte;Móvil;82.0;31.4;4;47;No cumple
+2025-05-27;Centro;Internet Hogar;79.3;29.9;13;8;Cumple
+2025-05-28;Norte;Internet Hogar;22.9;1.3;10;51;Cumple
+2025-05-29;Sur;Móvil;13.9;35.7;2;10;No cumple
+2025-05-30;Centro;Empresas;118.3;38.8;25;23;No cumple
+2025-05-31;Sur;Internet Hogar;31.8;38.7;5;11;Cumple
+2025-06-01;Centro;Internet Hogar;38.3;19.0;23;49;Cumple
+2025-06-02;Sur;Internet Hogar;40.5;40.5;13;41;No cumple
+2025-06-03;Norte;Internet Hogar;37.9;42.8;18;31;Cumple
+2025-06-04;Norte;Empresas;87.9;21.3;17;10;No cumple
+2025-06-05;Sur;Empresas;89.9;16.9;25;25;Cumple
+2025-06-06;Sur;Empresas;117.2;19.4;14;31;No cumple
+2025-06-07;Norte;Empresas;19.5;35.3;15;20;No cumple
+2025-06-08;Centro;Internet Hogar;96.8;10.7;17;11;No cumple
+2025-06-09;Centro;Internet Hogar;57.3;21.3;25;52;No cumple
+2025-06-10;Norte;Empresas;43.8;47.2;19;46;No cumple
+2025-06-11;Centro;Móvil;112.1;5.8;13;16;No cumple
+2025-06-12;Centro;Empresas;52.9;24.8;8;48;No cumple
+2025-06-13;Centro;Internet Hogar;26.2;3.1;13;59;No cumple
+2025-06-14;Sur;Móvil;38.9;24.9;13;22;Cumple
+2025-06-15;Norte;Empresas;109.5;4.0;7;33;No cumple
+2025-06-16;Sur;Móvil;104.6;3.0;6;32;Cumple
+2025-06-17;Sur;Internet Hogar;81.6;24.8;19;42;No cumple
+2025-06-18;Sur;Internet Hogar;114.5;43.1;17;23;Cumple
+2025-06-19;Centro;Internet Hogar;37.8;35.8;21;51;Cumple
+2025-06-20;Centro;Empresas;82.4;40.4;19;54;No cumple
+2025-06-21;Centro;Internet Hogar;114.5;2.4;8;16;No cumple
+2025-06-22;Sur;Internet Hogar;37.0;19.9;14;14;Cumple
+2025-06-23;Centro;Móvil;26.2;39.2;10;6;No cumple
+2025-06-24;Centro;Empresas;117.1;11.3;23;23;Cumple
+2025-06-25;Centro;Internet Hogar;117.6;10.6;22;37;Cumple
+2025-06-26;Centro;Empresas;35.6;34.4;28;39;No cumple
+2025-06-27;Centro;Móvil;58.4;39.9;10;25;No cumple
+2025-06-28;Centro;Internet Hogar;77.1;8.2;2;55;No cumple
+2025-06-29;Sur;Internet Hogar;86.1;43.0;5;51;Cumple
+2025-06-30;Centro;Móvil;89.4;26.0;5;32;Cumple
+2025-07-01;Centro;Internet Hogar;61.8;39.1;3;49;No cumple
+2025-07-02;Norte;Móvil;17.1;26.6;8;37;Cumple
+2025-07-03;Sur;Empresas;118.2;37.5;16;23;Cumple
+2025-07-04;Centro;Internet Hogar;79.6;9.7;1;26;Cumple
+2025-07-05;Centro;Empresas;102.5;8.3;17;31;No cumple
+2025-07-06;Centro;Empresas;38.2;43.0;3;21;Cumple
+2025-07-07;Centro;Móvil;66.7;6.3;24;16;No cumple
+2025-07-08;Centro;Empresas;108.2;18.9;10;29;Cumple
+2025-07-09;Norte;Internet Hogar;21.0;24.2;22;57;Cumple
+2025-07-10;Sur;Móvil;27.8;21.7;4;48;No cumple
+2025-07-11;Sur;Empresas;36.0;47.0;2;41;No cumple
+2025-07-12;Sur;Móvil;11.2;26.0;23;57;No cumple
+2025-07-13;Norte;Internet Hogar;19.9;45.0;11;9;Cumple
+2025-07-14;Norte;Móvil;83.5;9.2;19;31;Cumple
+2025-07-15;Centro;Móvil;117.1;29.0;6;11;Cumple
+2025-07-16;Centro;Internet Hogar;89.8;40.5;11;34;No cumple
+2025-07-17;Centro;Empresas;103.8;6.9;20;25;Cumple
+2025-07-18;Norte;Empresas;11.3;18.8;5;13;Cumple
+2025-07-19;Norte;Móvil;93.4;35.1;22;45;No cumple
+2025-07-20;Centro;Internet Hogar;95.8;5.6;3;27;No cumple
+2025-07-21;Centro;Internet Hogar;21.6;19.9;6;46;No cumple
+2025-07-22;Centro;Internet Hogar;57.1;18.5;21;55;No cumple
+2025-07-23;Norte;Móvil;43.7;39.1;3;19;Cumple
+2025-07-24;Sur;Internet Hogar;91.7;23.2;25;25;No cumple
+2025-07-25;Centro;Empresas;26.6;44.9;10;7;Cumple
+2025-07-26;Norte;Móvil;39.7;26.7;5;59;Cumple
+2025-07-27;Norte;Móvil;66.1;8.6;21;14;No cumple
+2025-07-28;Norte;Internet Hogar;118.5;20.3;19;42;No cumple
+2025-07-29;Sur;Empresas;53.1;37.6;28;10;Cumple
+2025-07-30;Centro;Internet Hogar;31.4;9.0;1;46;No cumple
+2025-07-31;Norte;Móvil;100.2;23.0;14;14;Cumple
+2025-08-01;Norte;Empresas;44.9;2.9;17;38;No cumple
+2025-08-02;Sur;Empresas;68.6;44.0;0;34;Cumple
+2025-08-03;Sur;Internet Hogar;69.9;3.2;13;48;Cumple
+2025-08-04;Centro;Empresas;73.6;33.8;1;21;No cumple
+2025-08-05;Sur;Empresas;74.4;25.4;12;26;Cumple
+2025-08-06;Centro;Empresas;34.7;41.7;27;43;Cumple
+2025-08-07;Norte;Móvil;22.7;7.8;21;44;No cumple
+2025-08-08;Sur;Internet Hogar;47.0;19.3;25;37;Cumple
+2025-08-09;Sur;Móvil;117.2;28.3;16;18;Cumple
+2025-08-10;Norte;Móvil;86.6;30.8;17;26;No cumple
+2025-08-11;Centro;Empresas;44.0;12.4;5;38;Cumple
+2025-08-12;Centro;Móvil;32.3;46.1;18;49;Cumple
+2025-08-13;Norte;Internet Hogar;11.4;18.8;17;38;No cumple
+2025-08-14;Centro;Internet Hogar;23.1;38.3;13;23;No cumple
+2025-08-15;Norte;Móvil;82.5;32.5;7;41;No cumple
+2025-08-16;Norte;Empresas;70.4;22.4;16;18;Cumple
+2025-08-17;Centro;Móvil;114.7;20.1;1;59;Cumple
+2025-08-18;Sur;Móvil;60.4;26.5;23;12;Cumple
+2025-08-19;Norte;Empresas;106.3;21.2;14;8;No cumple
+2025-08-20;Sur;Móvil;75.3;2.2;1;26;Cumple
+2025-08-21;Centro;Internet Hogar;14.5;25.1;19;56;No cumple
+2025-08-22;Sur;Internet Hogar;17.6;44.9;24;52;Cumple
+2025-08-23;Centro;Empresas;33.6;23.5;4;42;Cumple
+2025-08-24;Norte;Internet Hogar;108.5;5.9;12;7;No cumple
+2025-08-25;Norte;Internet Hogar;65.3;10.0;2;25;No cumple
+2025-08-26;Sur;Móvil;20.1;11.9;1;46;No cumple
+2025-08-27;Sur;Internet Hogar;37.2;25.6;29;40;No cumple
+2025-08-28;Sur;Móvil;26.4;40.9;21;49;No cumple
+2025-08-29;Norte;Internet Hogar;72.4;6.4;9;13;Cumple
+2025-08-30;Centro;Internet Hogar;104.2;39.6;1;30;No cumple
+2025-08-31;Sur;Empresas;43.1;30.9;7;42;Cumple
+2025-09-01;Sur;Empresas;91.8;33.4;4;39;No cumple
+2025-09-02;Sur;Internet Hogar;44.2;4.3;20;36;Cumple
+2025-09-03;Sur;Móvil;88.3;32.4;16;17;No cumple
+2025-09-04;Sur;Empresas;119.9;19.3;22;34;No cumple
+2025-09-05;Sur;Empresas;47.5;32.2;25;53;No cumple
+2025-09-06;Norte;Internet Hogar;17.7;2.0;16;20;No cumple
+2025-09-07;Centro;Móvil;28.1;18.5;0;51;No cumple
+2025-09-08;Norte;Internet Hogar;19.0;10.1;27;26;No cumple
+2025-09-09;Centro;Móvil;78.0;37.5;4;57;Cumple
+2025-09-10;Centro;Empresas;114.1;46.5;26;5;Cumple
+2025-09-11;Sur;Móvil;34.2;47.1;18;10;No cumple
+2025-09-12;Sur;Móvil;13.9;30.4;7;42;Cumple
+2025-09-13;Sur;Empresas;48.9;10.1;17;42;Cumple
+2025-09-14;Sur;Móvil;52.5;28.9;25;9;No cumple
+2025-09-15;Centro;Internet Hogar;23.0;7.2;10;36;Cumple
+2025-09-16;Norte;Internet Hogar;75.0;34.2;18;32;No cumple
